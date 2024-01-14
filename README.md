@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Shreyeska Silwal</h1>
-<h3 align="center">A learner</h3>
+<h1 align="center">Hi, I'm Shreyeska</h1>
+<!-- <h3 align="center">A learner</h3> -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
 
 - I’m currently working on **developing my full stack development skills**
 
@@ -8,9 +10,14 @@
 - How to reach me **silwalshreyeska@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shreyeska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyeska Silwal" height="30" width="40" /></a>
-</p>
+<div id="badges" >
+  <a href="https://www.linkedin.com/in/Shreyeska/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 
 
