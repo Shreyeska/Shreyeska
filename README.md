@@ -24,6 +24,8 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyeska&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyeska&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shreyeska&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+![Shreyeska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyeska&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)
 
