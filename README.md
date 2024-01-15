@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats:
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SwikritiT&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shreyeska&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ![Shreyeska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyeska&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)
 
