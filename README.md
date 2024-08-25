@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreyeska&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyeska" /> </p>
+
 <h1 align="center">Hi, I'm Shreyeska</h1>
 <!-- <h3 align="center">A learner</h3> -->
 <p align="center">
