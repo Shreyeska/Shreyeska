@@ -33,3 +33,5 @@
 
 ![Shreyeska's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyeska&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)
 
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyeska&theme=react&show_icons=true&locale=en&layout=compact" alt="gaurav-shrestha" height=150/>
+
